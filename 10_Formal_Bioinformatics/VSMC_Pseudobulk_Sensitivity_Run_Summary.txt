@@ -1,0 +1,10 @@
+VSMC pseudobulk and sensitivity analysis complete.
+Pseudobulk samples: ACom_RR, MCA_R1, MCA_R2, STA1, STA2, STA3
+Genes tested: 14354
+FDR<0.10 genes: 7151
+Top ruptured-up genes: AL157402.2, BICDL1, OLR1, HBA2, PPBP, HBB, CCR7, ICOS, SPP1, ZC3H12D
+Top STA-up genes: ADH1B, MYOC, CXCL14, VIT, CCN5, CILP, CYP4B1, CFD, KCND2, LMO3
+Custom enrichment top pathways: Contractile_VSMC, Inflammatory_VSMC, ECM_Remodeling, Synthetic_VSMC, NFkB_AP1
+Leave-one-out inflammatory prop delta range: 0.775382435331458 to 0.895326806313174
+Leave-one-out AMPK-SIRT1 delta range: 0.0536876596887775 to 0.0823398754535077
+Leave-one-out inflammation score delta range: 0.302037574737717 to 0.670936678828635
