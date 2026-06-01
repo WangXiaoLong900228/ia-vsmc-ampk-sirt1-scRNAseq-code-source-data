@@ -1,0 +1,41 @@
+AMPK-SIRT1 inflammatory VSMC compensation test
+Output directory: /Users/wangxiaolong/Desktop/VSMC单细胞方法与结果/10_Formal_Bioinformatics/AMPK_SIRT1_Inflammatory_Compensation_Test
+
+Inflammatory VSMCs analyzed: 3093.
+Samples retained for within-sample high/low testing: ACom_RR, MCA_R1, MCA_R2, STA1, STA2 (minimum 20 inflammatory VSMCs per sample).
+
+Question: among inflammatory-state VSMCs, does high AMPK-SIRT1 mark an independent protective/compensatory program or simply stronger injury/remodeling?
+
+Key within-sample AMPK-high minus AMPK-low deltas:
+sig_AMPK_SIRT1_core: mean delta=0.22, median delta=0.219, positive samples=5/5, Wilcoxon P=0.0591, BH P=0.295
+sig_NFkB_cytokine: mean delta=0.0249, median delta=0.0202, positive samples=4/5, Wilcoxon P=0.178, BH P=0.444
+sig_ECM_MMP_remodeling: mean delta=0.0114, median delta=0.0137, positive samples=4/5, Wilcoxon P=0.418, BH P=0.697
+sig_ER_AP1_stress: mean delta=-0.0478, median delta=-0.0949, positive samples=2/5, Wilcoxon P=0.281, BH P=0.526
+sig_Antioxidant_redox: mean delta=-0.0308, median delta=-0.02, positive samples=1/5, Wilcoxon P=0.106, BH P=0.317
+sig_Metabolic_adaptation_noncore: mean delta=0.0589, median delta=0.0594, positive samples=5/5, Wilcoxon P=0.0591, BH P=0.295
+sig_Autophagy_adaptation: mean delta=-0.0165, median delta=-0.000401, positive samples=2/5, Wilcoxon P=1, BH P=1
+sig_Contractile_identity: mean delta=0.000309, median delta=0.0173, positive samples=3/5, Wilcoxon P=0.787, BH P=0.984
+Protective_support_z: mean delta=0.025, median delta=0.0501, positive samples=4/5, Wilcoxon P=0.59, BH P=0.804
+Injury_remodeling_z: mean delta=0.0122, median delta=-0.00175, positive samples=2/5, Wilcoxon P=1, BH P=1
+Compensation_balance: mean delta=0.0128, median delta=0.047, positive samples=3/5, Wilcoxon P=1, BH P=1
+vsmc_Contractile: mean delta=0.0128, median delta=0.0266, positive samples=3/5, Wilcoxon P=0.281, BH P=0.526
+vsmc_Inflammatory: mean delta=0.0352, median delta=0.0322, positive samples=5/5, Wilcoxon P=0.0591, BH P=0.295
+vsmc_ECM_Remodeling: mean delta=0.0327, median delta=0.0392, positive samples=4/5, Wilcoxon P=0.106, BH P=0.317
+vsmc_Metabolic_Stress: mean delta=-0.00897, median delta=-0.014, positive samples=1/5, Wilcoxon P=0.59, BH P=0.804
+
+Sample fixed-effect AMPK_z coefficients:
+sig_AMPK_SIRT1_core: beta=0.156, BH P=0
+sig_NFkB_cytokine: beta=0.0192, BH P=1.88e-05
+sig_ECM_MMP_remodeling: beta=0.0121, BH P=0.00281
+sig_ER_AP1_stress: beta=-0.0175, BH P=0.122
+sig_Antioxidant_redox: beta=-0.00553, BH P=0.147
+sig_Metabolic_adaptation_noncore: beta=0.0436, BH P=6.21e-43
+sig_Autophagy_adaptation: beta=0.00528, BH P=0.259
+sig_Contractile_identity: beta=0.00127, BH P=0.709
+Protective_support_z: beta=0.0571, BH P=2.84e-11
+Injury_remodeling_z: beta=0.0244, BH P=0.0121
+Compensation_balance: beta=0.0327, BH P=0.00738
+vsmc_Contractile: beta=0.00367, BH P=0.266
+vsmc_Inflammatory: beta=0.0197, BH P=0.000133
+vsmc_ECM_Remodeling: beta=0.0228, BH P=1.47e-06
+vsmc_Metabolic_Stress: beta=0.00393, BH P=0.395
