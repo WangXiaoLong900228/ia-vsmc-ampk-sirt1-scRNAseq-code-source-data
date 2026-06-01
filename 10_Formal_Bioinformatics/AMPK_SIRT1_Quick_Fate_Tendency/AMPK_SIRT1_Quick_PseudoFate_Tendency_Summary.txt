@@ -1,0 +1,19 @@
+Quick AMPK-SIRT1 pseudo-fate tendency analysis
+Output directory: /Users/wangxiaolong/Desktop/VSMC单细胞方法与结果/10_Formal_Bioinformatics/AMPK_SIRT1_Quick_Fate_Tendency
+
+Definition: pseudo-fate probabilities were calculated by averaging softmax-transformed distances to VSMC state centroids in substate UMAP space and in VSMC state-score space. This is not RNA velocity or CellRank.
+
+Cell-level Spearman AMPK-SIRT1 vs inflammatory pseudo-fate: rho=0.199, BH-adjusted P=7.01e-104.
+Cell-level Spearman AMPK-SIRT1 vs contractile pseudo-fate: rho=-0.086, BH-adjusted P=1.25e-20.
+Cell-level Spearman AMPK-SIRT1 vs ECM-remodeling pseudo-fate: rho=-0.105, BH-adjusted P=8.39e-30.
+Cell-level Spearman AMPK-SIRT1 vs metabolic-stress pseudo-fate: rho=-0.117, BH-adjusted P=8.9e-37.
+
+Within-sample high-minus-low AMPK-SIRT1 delta for inflammatory pseudo-fate: mean=0.014, median=0.007, positive samples=4/7, Wilcoxon P=0.353.
+Within-sample high-minus-low AMPK-SIRT1 delta for contractile pseudo-fate: mean=-0.009, median=-0.005, positive samples=3/7, Wilcoxon P=0.205.
+
+Sample fixed-effect LM beta for AMPK-SIRT1 z-score predicting inflammatory pseudo-fate: beta=-0.001, BH-adjusted P=0.148.
+Sample fixed-effect LM beta for AMPK-SIRT1 z-score predicting contractile pseudo-fate: beta=-0.001, BH-adjusted P=0.386.
+
+Interpretation:
+The quick pseudo-fate analysis tests whether higher AMPK-SIRT1 activity points toward contractile/homeostatic or inflammatory/remodeling VSMC directions. Because this analysis uses existing substate structure rather than RNA velocity, it should be interpreted as a directional tendency, not true fate probability.
+Result pattern: higher AMPK-SIRT1 activity is associated with greater inflammatory pseudo-fate tendency and lower contractile pseudo-fate tendency. This supports a remodeling-associated or compensatory stress-response interpretation rather than a simple static contractile-protective model.
