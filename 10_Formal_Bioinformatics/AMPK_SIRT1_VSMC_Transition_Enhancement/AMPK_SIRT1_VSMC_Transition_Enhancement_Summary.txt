@@ -1,0 +1,15 @@
+AMPK-SIRT1 VSMC transition enhancement analysis
+Output directory: /Users/wangxiaolong/Desktop/VSMC单细胞方法与结果/10_Formal_Bioinformatics/AMPK_SIRT1_VSMC_Transition_Enhancement
+
+Cell-level VSMC states: inflammatory VSMC (n=3093, mean AMPK=0.020); ECM-remodeling VSMC (n=1127, mean AMPK=-0.004); metabolic-stress VSMC (n=2500, mean AMPK=-0.038); synthetic VSMC (n=2700, mean AMPK=-0.042); contractile VSMC (n=2251, mean AMPK=-0.062)
+Highest mean AMPK-SIRT1 state: inflammatory VSMC; lowest mean AMPK-SIRT1 state: contractile VSMC.
+Cell-level Spearman AMPK-SIRT1 vs transition pressure: rho=0.160, BH-adjusted P=2.38e-67.
+Cell-level Spearman AMPK-SIRT1 vs inflammatory state score: rho=0.270, BH-adjusted P=1.41e-192.
+Cell-level Spearman AMPK-SIRT1 vs ECM-remodeling score: rho=-0.082, BH-adjusted P=9.45e-19.
+Pseudotime Spearman AMPK-SIRT1 vs scaled pseudotime: rho=0.125, BH-adjusted P=2.02e-41.
+Pseudotime Spearman transition pressure vs scaled pseudotime: rho=0.133, BH-adjusted P=6.88e-47.
+Sample-level Spearman AMPK-SIRT1 vs contractile score across STA/Ruptured samples: rho=-0.393, P=0.383 (n=7).
+Sample-level Spearman AMPK-SIRT1 vs transition pressure across STA/Ruptured samples: rho=0.714, P=0.0713 (n=7).
+
+Interpretation for manuscript:
+The substate-level analysis does not support a simple model in which AMPK-SIRT1 activity is highest in contractile VSMCs and lost monotonically during transition. Instead, the existing AMPK-SIRT1 module is modestly higher in inflammatory VSMCs and positively associated with inflammatory/transition-pressure metrics, while ECM-remodeling associations are weaker and directionally mixed. Together with CellChat and TF/regulon results, these findings support a context-dependent AMPK-SIRT1-linked stress/remodeling response during VSMC transition. Therefore, the manuscript should describe AMPK-SIRT1 as a remodeling-associated and externally supported vulnerability/protective axis, not as a substate-proven causal protector of contractile identity.
