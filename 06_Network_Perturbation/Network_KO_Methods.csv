@@ -1,0 +1,4 @@
+"target_gene","method"
+"SIRT1","correlation_fallback"
+"PRKAA1","scTenifoldKnk"
+"PRKAA2","correlation_fallback"
