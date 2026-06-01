@@ -1,0 +1,3 @@
+"comparison","p_value","model_auc"
+"PICA_U_baseline_vs_down",0.810181236410474,0.998290335007931
+"MCA_R_baseline_vs_up",0.00256859033654372,0.998290335007931
