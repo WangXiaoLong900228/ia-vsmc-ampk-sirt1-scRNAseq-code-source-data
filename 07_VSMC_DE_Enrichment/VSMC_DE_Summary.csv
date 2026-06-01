@@ -1,0 +1,5 @@
+"comparison","n_sig","n_up_ident_1","n_up_ident_2","caveat"
+"STA_vs_Unruptured",182,0,182,"Interpret cautiously: Unruptured VSMC count is very low."
+"Unruptured_vs_Rupture_like",62,62,0,"Interpret cautiously: Unruptured VSMC count is very low."
+"STA_vs_Ruptured_de_novo",7906,5080,2826,""
+"STA_vs_Ruptured_recurrent",7717,4751,2966,""
