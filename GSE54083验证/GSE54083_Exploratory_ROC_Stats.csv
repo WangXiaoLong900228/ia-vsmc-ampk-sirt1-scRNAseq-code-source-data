@@ -1,0 +1,4 @@
+comparison,n_total,n_negative,n_positive,auc,auc_ci_lower,auc_ci_upper,note
+STA_vs_RIA,18,10,8,1,1,1,exploratory classification only; not a clinical prediction model
+STA_vs_UIARIA,23,10,13,1,1,1,exploratory classification only; not a clinical prediction model
+STAUIA_vs_RIA,23,15,8,0.7916666666666666,0.5714285714285714,0.9556746031746026,exploratory classification only; not a clinical prediction model
