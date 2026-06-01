@@ -1,6 +1,6 @@
 # Supplementary Code and Source Data
 
-This archive contains the analysis scripts and processed source tables supporting the intracranial aneurysm scRNA-seq manuscript.
+This repository contains the analysis scripts and processed source tables supporting the intracranial aneurysm scRNA-seq manuscript.
 
 ## External public data
 - GSE54083: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE54083
@@ -14,11 +14,10 @@ This archive contains the analysis scripts and processed source tables supportin
 Large intermediate `.rds` objects, locally installed R package folders, and raw human scRNA-seq matrices are not included in this supplementary archive. Public release of raw matrices and full processed single-cell objects should follow the final institutional ethics/data-sharing approval and journal requirements.
 
 ## Reuse
-The scripts are provided for review and reproducibility. Before public repository release, add a license file and replace any local absolute paths with project-relative paths as needed.
+The scripts are provided for peer review and reproducibility. Some scripts may require local path adjustment before rerunning in a new computing environment.
 
-## GitHub upload note
-
-This folder is prepared for GitHub upload. Large text source tables over 20 MB were gzip-compressed so they can be uploaded through the GitHub web interface more reliably.
+## Large table handling
+Large text source tables over 20 MB were gzip-compressed to keep individual repository files within GitHub upload limits.
 
 Compressed files:
 - `10_Formal_Bioinformatics/SCENIC_VSMC_RegulonAUC_Long.csv.gz` (5.27 MB)
