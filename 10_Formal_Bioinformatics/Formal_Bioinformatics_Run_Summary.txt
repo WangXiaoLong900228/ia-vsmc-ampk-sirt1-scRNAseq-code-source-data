@@ -1,0 +1,10 @@
+Formal bioinformatics analysis complete.
+Output directory: /Users/wangxiaolong/Desktop/VSMC单细胞方法与结果/10_Formal_Bioinformatics
+Main output files:
+FigureS7_VSMC_Substates_Milo_DA.png
+FigureS8_CellChat_VSMC_Interactions.png
+FigureS9_DoRothEA_VIPER_TF_Activity.png
+VSMC_Formal_Substate_Annotated.rds
+Milo_VSMC_Neighborhood_DA_Ruptured_vs_STA.csv
+CellChat_VSMC_Targeted_Axes.csv
+DoRothEA_VIPER_VSMC_State_TF_Activity.csv
