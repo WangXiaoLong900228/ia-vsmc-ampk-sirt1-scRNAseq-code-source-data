@@ -1,0 +1,13 @@
+Raw external validation inputs are public GEO/NCBI resources and are intentionally not redistributed in this package.
+
+GEO cohorts:
+- GSE122897: raw count table GSE122897_readCounts_raw.txt.gz and series matrix metadata from GEO.
+- GSE13353: GEO series matrix, GPL570 annotation.
+- GSE15629: GEO series matrix, GPL6244 annotation.
+- GSE75436: GEO series matrix, GPL570 annotation.
+
+Gene annotation resources used by the script:
+- NCBI gene2ensembl.gz
+- NCBI Homo_sapiens.gene_info.gz
+
+The analysis script external_cohort_validation_analysis.R documents the exact processing workflow. Processed signature scores, statistics, gene coverage, key-gene z-scores, and publication-ready figures are included here.
