@@ -1,0 +1,505 @@
+dataset,sample_id,signature,score,present_genes,total_genes,geo_accession,title,source_name,sex,age,aneurysm.location,tissue.status,group,pair_id,characteristic_3,platform,tissue,type,individual
+GSE122897,CO1,AMPK_SIRT1,1.16404151433502,10,11,GSM3487837,CO1,Intracranial cortical artery,Female,40,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO2,AMPK_SIRT1,0.156689592055962,10,11,GSM3487838,CO2,Intracranial cortical artery,Male,19,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO3,AMPK_SIRT1,-0.255687820485086,10,11,GSM3487839,CO3,Intracranial cortical artery,Male,42,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO4,AMPK_SIRT1,-0.16108294041317,10,11,GSM3487840,CO4,Intracranial cortical artery,Male,19,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO5,AMPK_SIRT1,-0.555448813813506,10,11,GSM3487841,CO5,Intracranial cortical artery,Male,18,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO6,AMPK_SIRT1,-0.00602708069962649,10,11,GSM3487842,CO6,Intracranial cortical artery,Male,21,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO7,AMPK_SIRT1,0.175055297672523,10,11,GSM3487843,CO7,Intracranial cortical artery,Male,24,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO8,AMPK_SIRT1,-0.29473502216356,10,11,GSM3487844,CO8,Intracranial cortical artery,Female,44,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO9,AMPK_SIRT1,0.225086978439982,10,11,GSM3487845,CO9,Intracranial cortical artery,Female,41,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO10,AMPK_SIRT1,0.320768587741352,10,11,GSM3487846,CO10,Intracranial cortical artery,Female,50,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO11,AMPK_SIRT1,0.651951496578697,10,11,GSM3487847,CO11,Intracranial cortical artery,Female,20,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO12,AMPK_SIRT1,-0.509702805088331,10,11,GSM3487848,CO12,Intracranial cortical artery,Female,44,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO13,AMPK_SIRT1,0.353577282917701,10,11,GSM3487849,CO13,Intracranial cortical artery,Female,16,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO14,AMPK_SIRT1,0.320895514520522,10,11,GSM3487850,CO14,Intracranial cortical artery,Male,28,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO15,AMPK_SIRT1,0.288235998835844,10,11,GSM3487851,CO15,Intracranial cortical artery,Male,34,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO16,AMPK_SIRT1,-0.457163982664173,10,11,GSM3487852,CO16,Intracranial cortical artery,Male,18,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,IA1,AMPK_SIRT1,0.208905615595487,10,11,GSM3487853,IA1,Ruptured intracranial aneurysm,Female,39,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA2,AMPK_SIRT1,0.217231238700048,10,11,GSM3487854,IA2,Unruptured intracranial aneurysm,Male,50,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA3,AMPK_SIRT1,-0.048002604433327,10,11,GSM3487855,IA3,Ruptured intracranial aneurysm,Female,60,ACM (M1),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA4,AMPK_SIRT1,-0.352796596939475,10,11,GSM3487856,IA4,Unruptured intracranial aneurysm,Female,41,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA5,AMPK_SIRT1,0.212568043250786,10,11,GSM3487857,IA5,Unruptured intracranial aneurysm,Female,66,ACOM,Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA7,AMPK_SIRT1,-0.171977548984324,10,11,GSM3487859,IA7,Unruptured intracranial aneurysm,Male,77,ACOM,Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA8,AMPK_SIRT1,-0.0038764029232494,10,11,GSM3487860,IA8,Unruptured intracranial aneurysm,Male,57,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA9,AMPK_SIRT1,0.624131828469394,10,11,GSM3487861,IA9,Unruptured intracranial aneurysm,Female,46,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA10,AMPK_SIRT1,0.0859020425576044,10,11,GSM3487862,IA10,Unruptured intracranial aneurysm,Female,72,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA11,AMPK_SIRT1,-0.492485110871157,10,11,GSM3487863,IA11,Ruptured intracranial aneurysm,Female,43,ACA (A2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA12,AMPK_SIRT1,-0.672140416143488,10,11,GSM3487864,IA12,Unruptured intracranial aneurysm,Male,36,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA13,AMPK_SIRT1,-0.833316980099117,10,11,GSM3487865,IA13,Unruptured intracranial aneurysm,Male,60,ACM (M1),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA14,AMPK_SIRT1,-1.32248012999134,10,11,GSM3487866,IA14,Ruptured intracranial aneurysm,Male,29,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA15,AMPK_SIRT1,-0.12030815183086,10,11,GSM3487867,IA15,Ruptured intracranial aneurysm,Female,58,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA16,AMPK_SIRT1,0.043604174962505,10,11,GSM3487868,IA16,Ruptured intracranial aneurysm,Female,51,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA17,AMPK_SIRT1,0.119813969237609,10,11,GSM3487869,IA17,Ruptured intracranial aneurysm,Female,67,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA18,AMPK_SIRT1,-0.686394378899595,10,11,GSM3487870,IA18,Ruptured intracranial aneurysm,Male,56,ACA (A2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA19,AMPK_SIRT1,-0.391846577203213,10,11,GSM3487871,IA19,Unruptured intracranial aneurysm,Female,55,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA20,AMPK_SIRT1,0.0455584724951433,10,11,GSM3487872,IA20,Unruptured intracranial aneurysm,Female,58,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA21,AMPK_SIRT1,0.803009135739396,10,11,GSM3487873,IA21,Unruptured intracranial aneurysm,Male,56,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA22,AMPK_SIRT1,-0.51565963603381,10,11,GSM3487874,IA22,Ruptured intracranial aneurysm,Female,54,PCOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA23,AMPK_SIRT1,-0.0234090484716451,10,11,GSM3487875,IA23,Ruptured intracranial aneurysm,Female,69,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA24,AMPK_SIRT1,-0.19372417140656,10,11,GSM3487876,IA24,Unruptured intracranial aneurysm,Female,55,ACOM,Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA25,AMPK_SIRT1,0.158841802722445,10,11,GSM3487877,IA25,Ruptured intracranial aneurysm,Female,57,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA26,AMPK_SIRT1,0.213388454394101,10,11,GSM3487878,IA26,Ruptured intracranial aneurysm,Female,37,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA27,AMPK_SIRT1,0.911417709557557,10,11,GSM3487879,IA27,Unruptured intracranial aneurysm,Female,57,ACM (M1),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA28,AMPK_SIRT1,0.501555839033832,10,11,GSM3487880,IA28,Unruptured intracranial aneurysm,Female,45,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA29,AMPK_SIRT1,0.727553698122342,10,11,GSM3487881,IA29,Ruptured intracranial aneurysm,Female,66,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA30,AMPK_SIRT1,-0.592498178865399,10,11,GSM3487882,IA30,Ruptured intracranial aneurysm,Male,58,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA31,AMPK_SIRT1,-1.00808122005231,10,11,GSM3487883,IA31,Unruptured intracranial aneurysm,Female,39,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA32,AMPK_SIRT1,-0.0628168795902335,10,11,GSM3487884,IA32,Ruptured intracranial aneurysm,Male,48,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA33,AMPK_SIRT1,0.158012653672727,10,11,GSM3487885,IA33,Ruptured intracranial aneurysm,Female,63,PCOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA34,AMPK_SIRT1,0.231586504354663,10,11,GSM3487886,IA34,Unruptured intracranial aneurysm,Female,24,ICA,Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA35,AMPK_SIRT1,-0.277379875960304,10,11,GSM3487887,IA35,Ruptured intracranial aneurysm,Female,46,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA36,AMPK_SIRT1,0.203704344169271,10,11,GSM3487888,IA36,Ruptured intracranial aneurysm,Female,50,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA37,AMPK_SIRT1,0.04603659061919,10,11,GSM3487889,IA37,Unruptured intracranial aneurysm,Female,50,ACM (M1),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA38,AMPK_SIRT1,-0.376403357673711,10,11,GSM3487890,IA38,Ruptured intracranial aneurysm,Female,49,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA39,AMPK_SIRT1,-0.322708322571555,10,11,GSM3487891,IA39,Ruptured intracranial aneurysm,Female,70,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA41,AMPK_SIRT1,0.461698276075099,10,11,GSM3487893,IA41,Unruptured intracranial aneurysm,Male,60,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA42,AMPK_SIRT1,0.486184245780637,10,11,GSM3487894,IA42,Unruptured intracranial aneurysm,Female,50,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA43,AMPK_SIRT1,-0.0923277545466771,10,11,GSM3487895,IA43,Ruptured intracranial aneurysm,Female,63,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA44,AMPK_SIRT1,0.68347490621136,10,11,GSM3487896,IA44,Unruptured intracranial aneurysm,Female,63,ACM (M1),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,CO1,Contractile,0.244939264912809,12,12,GSM3487837,CO1,Intracranial cortical artery,Female,40,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO2,Contractile,1.37240540557766,12,12,GSM3487838,CO2,Intracranial cortical artery,Male,19,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO3,Contractile,0.747991910610225,12,12,GSM3487839,CO3,Intracranial cortical artery,Male,42,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO4,Contractile,1.12270208618076,12,12,GSM3487840,CO4,Intracranial cortical artery,Male,19,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO5,Contractile,-0.905272780695219,12,12,GSM3487841,CO5,Intracranial cortical artery,Male,18,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO6,Contractile,-1.48450945165717,12,12,GSM3487842,CO6,Intracranial cortical artery,Male,21,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO7,Contractile,1.25773665598158,12,12,GSM3487843,CO7,Intracranial cortical artery,Male,24,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO8,Contractile,-0.115817285289227,12,12,GSM3487844,CO8,Intracranial cortical artery,Female,44,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO9,Contractile,0.0211646428078622,12,12,GSM3487845,CO9,Intracranial cortical artery,Female,41,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO10,Contractile,1.33848038464312,12,12,GSM3487846,CO10,Intracranial cortical artery,Female,50,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO11,Contractile,0.530614466557052,12,12,GSM3487847,CO11,Intracranial cortical artery,Female,20,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO12,Contractile,0.732669487400737,12,12,GSM3487848,CO12,Intracranial cortical artery,Female,44,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO13,Contractile,0.536336525230393,12,12,GSM3487849,CO13,Intracranial cortical artery,Female,16,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO14,Contractile,1.08906367088547,12,12,GSM3487850,CO14,Intracranial cortical artery,Male,28,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO15,Contractile,1.02668362675921,12,12,GSM3487851,CO15,Intracranial cortical artery,Male,34,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO16,Contractile,-1.44566205266412,12,12,GSM3487852,CO16,Intracranial cortical artery,Male,18,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,IA1,Contractile,-0.226329166832636,12,12,GSM3487853,IA1,Ruptured intracranial aneurysm,Female,39,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA2,Contractile,1.34505696956363,12,12,GSM3487854,IA2,Unruptured intracranial aneurysm,Male,50,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA3,Contractile,0.118515154969331,12,12,GSM3487855,IA3,Ruptured intracranial aneurysm,Female,60,ACM (M1),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA4,Contractile,-0.644067165156844,12,12,GSM3487856,IA4,Unruptured intracranial aneurysm,Female,41,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA5,Contractile,0.694937157201815,12,12,GSM3487857,IA5,Unruptured intracranial aneurysm,Female,66,ACOM,Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA7,Contractile,0.102090024668472,12,12,GSM3487859,IA7,Unruptured intracranial aneurysm,Male,77,ACOM,Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA8,Contractile,-0.685878814578987,12,12,GSM3487860,IA8,Unruptured intracranial aneurysm,Male,57,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA9,Contractile,0.0981792588248372,12,12,GSM3487861,IA9,Unruptured intracranial aneurysm,Female,46,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA10,Contractile,0.51390209268386,12,12,GSM3487862,IA10,Unruptured intracranial aneurysm,Female,72,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA11,Contractile,-0.392085044084061,12,12,GSM3487863,IA11,Ruptured intracranial aneurysm,Female,43,ACA (A2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA12,Contractile,0.709389979499291,12,12,GSM3487864,IA12,Unruptured intracranial aneurysm,Male,36,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA13,Contractile,0.780490544571267,12,12,GSM3487865,IA13,Unruptured intracranial aneurysm,Male,60,ACM (M1),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA14,Contractile,0.356104176270918,12,12,GSM3487866,IA14,Ruptured intracranial aneurysm,Male,29,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA15,Contractile,-0.325203333906967,12,12,GSM3487867,IA15,Ruptured intracranial aneurysm,Female,58,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA16,Contractile,-1.17568508715275,12,12,GSM3487868,IA16,Ruptured intracranial aneurysm,Female,51,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA17,Contractile,-1.088770535245,12,12,GSM3487869,IA17,Ruptured intracranial aneurysm,Female,67,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA18,Contractile,-1.32952657621081,12,12,GSM3487870,IA18,Ruptured intracranial aneurysm,Male,56,ACA (A2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA19,Contractile,0.388694399170528,12,12,GSM3487871,IA19,Unruptured intracranial aneurysm,Female,55,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA20,Contractile,-0.00658497600145684,12,12,GSM3487872,IA20,Unruptured intracranial aneurysm,Female,58,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA21,Contractile,-0.640001699216233,12,12,GSM3487873,IA21,Unruptured intracranial aneurysm,Male,56,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA22,Contractile,0.325511245728554,12,12,GSM3487874,IA22,Ruptured intracranial aneurysm,Female,54,PCOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA23,Contractile,-1.73796742343808,12,12,GSM3487875,IA23,Ruptured intracranial aneurysm,Female,69,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA24,Contractile,0.0431898110560529,12,12,GSM3487876,IA24,Unruptured intracranial aneurysm,Female,55,ACOM,Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA25,Contractile,1.53377710879569,12,12,GSM3487877,IA25,Ruptured intracranial aneurysm,Female,57,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA26,Contractile,1.37639469380921,12,12,GSM3487878,IA26,Ruptured intracranial aneurysm,Female,37,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA27,Contractile,0.456428918819468,12,12,GSM3487879,IA27,Unruptured intracranial aneurysm,Female,57,ACM (M1),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA28,Contractile,-0.190786359128734,12,12,GSM3487880,IA28,Unruptured intracranial aneurysm,Female,45,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA29,Contractile,0.354318281220309,12,12,GSM3487881,IA29,Ruptured intracranial aneurysm,Female,66,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA30,Contractile,0.763535439416158,12,12,GSM3487882,IA30,Ruptured intracranial aneurysm,Male,58,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA31,Contractile,-0.340901573454137,12,12,GSM3487883,IA31,Unruptured intracranial aneurysm,Female,39,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA32,Contractile,-0.744501869911212,12,12,GSM3487884,IA32,Ruptured intracranial aneurysm,Male,48,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA33,Contractile,-0.590459668966776,12,12,GSM3487885,IA33,Ruptured intracranial aneurysm,Female,63,PCOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA34,Contractile,0.116607609313898,12,12,GSM3487886,IA34,Unruptured intracranial aneurysm,Female,24,ICA,Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA35,Contractile,-0.554153401709007,12,12,GSM3487887,IA35,Ruptured intracranial aneurysm,Female,46,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA36,Contractile,-0.363314105314797,12,12,GSM3487888,IA36,Ruptured intracranial aneurysm,Female,50,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA37,Contractile,0.286016200127021,12,12,GSM3487889,IA37,Unruptured intracranial aneurysm,Female,50,ACM (M1),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA38,Contractile,-1.64779728882315,12,12,GSM3487890,IA38,Ruptured intracranial aneurysm,Female,49,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA39,Contractile,-0.473109316624403,12,12,GSM3487891,IA39,Ruptured intracranial aneurysm,Female,70,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA41,Contractile,0.848770857954169,12,12,GSM3487893,IA41,Unruptured intracranial aneurysm,Male,60,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA42,Contractile,-0.330439033458184,12,12,GSM3487894,IA42,Unruptured intracranial aneurysm,Female,50,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA43,Contractile,-2.77638239608884,12,12,GSM3487895,IA43,Ruptured intracranial aneurysm,Female,63,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA44,Contractile,-1.01749164560254,12,12,GSM3487896,IA44,Unruptured intracranial aneurysm,Female,63,ACM (M1),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,CO1,Inflammatory,0.78292322551806,15,15,GSM3487837,CO1,Intracranial cortical artery,Female,40,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO2,Inflammatory,-0.517872719195355,15,15,GSM3487838,CO2,Intracranial cortical artery,Male,19,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO3,Inflammatory,-0.763411477017844,15,15,GSM3487839,CO3,Intracranial cortical artery,Male,42,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO4,Inflammatory,-0.709958511018622,15,15,GSM3487840,CO4,Intracranial cortical artery,Male,19,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO5,Inflammatory,-0.796369448051443,15,15,GSM3487841,CO5,Intracranial cortical artery,Male,18,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO6,Inflammatory,0.356897596963082,15,15,GSM3487842,CO6,Intracranial cortical artery,Male,21,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO7,Inflammatory,-0.74695262511781,15,15,GSM3487843,CO7,Intracranial cortical artery,Male,24,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO8,Inflammatory,-0.546692014478269,15,15,GSM3487844,CO8,Intracranial cortical artery,Female,44,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO9,Inflammatory,-1.53809316961445,15,15,GSM3487845,CO9,Intracranial cortical artery,Female,41,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO10,Inflammatory,-0.645357685800803,15,15,GSM3487846,CO10,Intracranial cortical artery,Female,50,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO11,Inflammatory,-0.910338070897811,15,15,GSM3487847,CO11,Intracranial cortical artery,Female,20,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO12,Inflammatory,0.0667027762602242,15,15,GSM3487848,CO12,Intracranial cortical artery,Female,44,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO13,Inflammatory,0.135081335834257,15,15,GSM3487849,CO13,Intracranial cortical artery,Female,16,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO14,Inflammatory,-0.827841611938909,15,15,GSM3487850,CO14,Intracranial cortical artery,Male,28,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO15,Inflammatory,-0.516634325893662,15,15,GSM3487851,CO15,Intracranial cortical artery,Male,34,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO16,Inflammatory,0.577629339514474,15,15,GSM3487852,CO16,Intracranial cortical artery,Male,18,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,IA1,Inflammatory,0.580736003940211,15,15,GSM3487853,IA1,Ruptured intracranial aneurysm,Female,39,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA2,Inflammatory,-0.574579029154166,15,15,GSM3487854,IA2,Unruptured intracranial aneurysm,Male,50,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA3,Inflammatory,-0.273846392486811,15,15,GSM3487855,IA3,Ruptured intracranial aneurysm,Female,60,ACM (M1),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA4,Inflammatory,0.164807768182926,15,15,GSM3487856,IA4,Unruptured intracranial aneurysm,Female,41,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA5,Inflammatory,1.12253230906913,15,15,GSM3487857,IA5,Unruptured intracranial aneurysm,Female,66,ACOM,Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA7,Inflammatory,0.142836374885118,15,15,GSM3487859,IA7,Unruptured intracranial aneurysm,Male,77,ACOM,Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA8,Inflammatory,0.925183738910003,15,15,GSM3487860,IA8,Unruptured intracranial aneurysm,Male,57,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA9,Inflammatory,0.680889808915784,15,15,GSM3487861,IA9,Unruptured intracranial aneurysm,Female,46,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA10,Inflammatory,0.424094355031191,15,15,GSM3487862,IA10,Unruptured intracranial aneurysm,Female,72,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA11,Inflammatory,-0.27563921054787,15,15,GSM3487863,IA11,Ruptured intracranial aneurysm,Female,43,ACA (A2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA12,Inflammatory,-0.531912044454541,15,15,GSM3487864,IA12,Unruptured intracranial aneurysm,Male,36,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA13,Inflammatory,-0.0955060009261783,15,15,GSM3487865,IA13,Unruptured intracranial aneurysm,Male,60,ACM (M1),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA14,Inflammatory,-0.855237000472537,15,15,GSM3487866,IA14,Ruptured intracranial aneurysm,Male,29,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA15,Inflammatory,-0.522712727075575,15,15,GSM3487867,IA15,Ruptured intracranial aneurysm,Female,58,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA16,Inflammatory,0.447468260896791,15,15,GSM3487868,IA16,Ruptured intracranial aneurysm,Female,51,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA17,Inflammatory,0.353632732383521,15,15,GSM3487869,IA17,Ruptured intracranial aneurysm,Female,67,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA18,Inflammatory,0.548343695150559,15,15,GSM3487870,IA18,Ruptured intracranial aneurysm,Male,56,ACA (A2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA19,Inflammatory,-0.24062616947028,15,15,GSM3487871,IA19,Unruptured intracranial aneurysm,Female,55,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA20,Inflammatory,-0.0810091518340652,15,15,GSM3487872,IA20,Unruptured intracranial aneurysm,Female,58,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA21,Inflammatory,1.04519007720528,15,15,GSM3487873,IA21,Unruptured intracranial aneurysm,Male,56,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA22,Inflammatory,-0.0466038996352747,15,15,GSM3487874,IA22,Ruptured intracranial aneurysm,Female,54,PCOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA23,Inflammatory,0.353185830301911,15,15,GSM3487875,IA23,Ruptured intracranial aneurysm,Female,69,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA24,Inflammatory,-0.241318306300883,15,15,GSM3487876,IA24,Unruptured intracranial aneurysm,Female,55,ACOM,Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA25,Inflammatory,-0.693833069640322,15,15,GSM3487877,IA25,Ruptured intracranial aneurysm,Female,57,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA26,Inflammatory,-0.361769408127986,15,15,GSM3487878,IA26,Ruptured intracranial aneurysm,Female,37,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA27,Inflammatory,0.545623797717125,15,15,GSM3487879,IA27,Unruptured intracranial aneurysm,Female,57,ACM (M1),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA28,Inflammatory,0.540659456092258,15,15,GSM3487880,IA28,Unruptured intracranial aneurysm,Female,45,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA29,Inflammatory,1.68713561219608,15,15,GSM3487881,IA29,Ruptured intracranial aneurysm,Female,66,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA30,Inflammatory,-0.0832770961805951,15,15,GSM3487882,IA30,Ruptured intracranial aneurysm,Male,58,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA31,Inflammatory,-1.62484857322032,15,15,GSM3487883,IA31,Unruptured intracranial aneurysm,Female,39,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA32,Inflammatory,-0.515290030195879,15,15,GSM3487884,IA32,Ruptured intracranial aneurysm,Male,48,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA33,Inflammatory,0.477573865561223,15,15,GSM3487885,IA33,Ruptured intracranial aneurysm,Female,63,PCOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA34,Inflammatory,0.926692546470862,15,15,GSM3487886,IA34,Unruptured intracranial aneurysm,Female,24,ICA,Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA35,Inflammatory,0.325800133313949,15,15,GSM3487887,IA35,Ruptured intracranial aneurysm,Female,46,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA36,Inflammatory,0.601967691701761,15,15,GSM3487888,IA36,Ruptured intracranial aneurysm,Female,50,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA37,Inflammatory,0.11799105605349,15,15,GSM3487889,IA37,Unruptured intracranial aneurysm,Female,50,ACM (M1),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA38,Inflammatory,-0.0993644084149271,15,15,GSM3487890,IA38,Ruptured intracranial aneurysm,Female,49,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA39,Inflammatory,-0.147569715101517,15,15,GSM3487891,IA39,Ruptured intracranial aneurysm,Female,70,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA41,Inflammatory,0.42549344262812,15,15,GSM3487893,IA41,Unruptured intracranial aneurysm,Male,60,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA42,Inflammatory,0.204075893075586,15,15,GSM3487894,IA42,Unruptured intracranial aneurysm,Female,50,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA43,Inflammatory,0.505528677726492,15,15,GSM3487895,IA43,Ruptured intracranial aneurysm,Female,63,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA44,Inflammatory,0.717786490765229,15,15,GSM3487896,IA44,Unruptured intracranial aneurysm,Female,63,ACM (M1),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,CO1,ECM_Remodeling,-0.908364263119305,15,15,GSM3487837,CO1,Intracranial cortical artery,Female,40,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO2,ECM_Remodeling,-0.553047776064621,15,15,GSM3487838,CO2,Intracranial cortical artery,Male,19,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO3,ECM_Remodeling,-1.02865973215257,15,15,GSM3487839,CO3,Intracranial cortical artery,Male,42,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO4,ECM_Remodeling,-0.987403545789145,15,15,GSM3487840,CO4,Intracranial cortical artery,Male,19,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO5,ECM_Remodeling,0.286513321550282,15,15,GSM3487841,CO5,Intracranial cortical artery,Male,18,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO6,ECM_Remodeling,0.452340295677884,15,15,GSM3487842,CO6,Intracranial cortical artery,Male,21,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO7,ECM_Remodeling,-1.05835359369446,15,15,GSM3487843,CO7,Intracranial cortical artery,Male,24,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO8,ECM_Remodeling,-1.86293231881091,15,15,GSM3487844,CO8,Intracranial cortical artery,Female,44,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO9,ECM_Remodeling,-1.68561586935051,15,15,GSM3487845,CO9,Intracranial cortical artery,Female,41,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO10,ECM_Remodeling,-1.06425733191183,15,15,GSM3487846,CO10,Intracranial cortical artery,Female,50,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO11,ECM_Remodeling,-1.01589167087843,15,15,GSM3487847,CO11,Intracranial cortical artery,Female,20,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO12,ECM_Remodeling,0.981268032497721,15,15,GSM3487848,CO12,Intracranial cortical artery,Female,44,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO13,ECM_Remodeling,-0.445762873974077,15,15,GSM3487849,CO13,Intracranial cortical artery,Female,16,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO14,ECM_Remodeling,-0.38061565613603,15,15,GSM3487850,CO14,Intracranial cortical artery,Male,28,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO15,ECM_Remodeling,-0.999666200246644,15,15,GSM3487851,CO15,Intracranial cortical artery,Male,34,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,CO16,ECM_Remodeling,0.0253701282950402,15,15,GSM3487852,CO16,Intracranial cortical artery,Male,18,NA,Intracranial cortical artery,Control,,,,,,
+GSE122897,IA1,ECM_Remodeling,-0.129485201194218,15,15,GSM3487853,IA1,Ruptured intracranial aneurysm,Female,39,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA2,ECM_Remodeling,-1.03574414651051,15,15,GSM3487854,IA2,Unruptured intracranial aneurysm,Male,50,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA3,ECM_Remodeling,0.271063249069029,15,15,GSM3487855,IA3,Ruptured intracranial aneurysm,Female,60,ACM (M1),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA4,ECM_Remodeling,0.795422875964526,15,15,GSM3487856,IA4,Unruptured intracranial aneurysm,Female,41,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA5,ECM_Remodeling,-0.0215408591952702,15,15,GSM3487857,IA5,Unruptured intracranial aneurysm,Female,66,ACOM,Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA7,ECM_Remodeling,0.142152897509752,15,15,GSM3487859,IA7,Unruptured intracranial aneurysm,Male,77,ACOM,Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA8,ECM_Remodeling,0.976970796926251,15,15,GSM3487860,IA8,Unruptured intracranial aneurysm,Male,57,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA9,ECM_Remodeling,0.673403881638952,15,15,GSM3487861,IA9,Unruptured intracranial aneurysm,Female,46,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA10,ECM_Remodeling,0.0245517003431901,15,15,GSM3487862,IA10,Unruptured intracranial aneurysm,Female,72,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA11,ECM_Remodeling,1.01881019873397,15,15,GSM3487863,IA11,Ruptured intracranial aneurysm,Female,43,ACA (A2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA12,ECM_Remodeling,0.294919861860588,15,15,GSM3487864,IA12,Unruptured intracranial aneurysm,Male,36,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA13,ECM_Remodeling,0.52007421794054,15,15,GSM3487865,IA13,Unruptured intracranial aneurysm,Male,60,ACM (M1),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA14,ECM_Remodeling,0.870875153553232,15,15,GSM3487866,IA14,Ruptured intracranial aneurysm,Male,29,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA15,ECM_Remodeling,0.454703199668551,15,15,GSM3487867,IA15,Ruptured intracranial aneurysm,Female,58,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA16,ECM_Remodeling,-0.765225032397458,15,15,GSM3487868,IA16,Ruptured intracranial aneurysm,Female,51,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA17,ECM_Remodeling,0.800274615318863,15,15,GSM3487869,IA17,Ruptured intracranial aneurysm,Female,67,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA18,ECM_Remodeling,0.0855451882591126,15,15,GSM3487870,IA18,Ruptured intracranial aneurysm,Male,56,ACA (A2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA19,ECM_Remodeling,0.410759288408651,15,15,GSM3487871,IA19,Unruptured intracranial aneurysm,Female,55,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA20,ECM_Remodeling,0.480306620502501,15,15,GSM3487872,IA20,Unruptured intracranial aneurysm,Female,58,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA21,ECM_Remodeling,-0.475921058638807,15,15,GSM3487873,IA21,Unruptured intracranial aneurysm,Male,56,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA22,ECM_Remodeling,0.0876326483526234,15,15,GSM3487874,IA22,Ruptured intracranial aneurysm,Female,54,PCOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA23,ECM_Remodeling,0.440938244397109,15,15,GSM3487875,IA23,Ruptured intracranial aneurysm,Female,69,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA24,ECM_Remodeling,0.421677027239519,15,15,GSM3487876,IA24,Unruptured intracranial aneurysm,Female,55,ACOM,Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA25,ECM_Remodeling,-0.0977577705498501,15,15,GSM3487877,IA25,Ruptured intracranial aneurysm,Female,57,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA26,ECM_Remodeling,-0.92738215574891,15,15,GSM3487878,IA26,Ruptured intracranial aneurysm,Female,37,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA27,ECM_Remodeling,0.446072815703539,15,15,GSM3487879,IA27,Unruptured intracranial aneurysm,Female,57,ACM (M1),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA28,ECM_Remodeling,0.549367755137587,15,15,GSM3487880,IA28,Unruptured intracranial aneurysm,Female,45,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA29,ECM_Remodeling,0.403817915181202,15,15,GSM3487881,IA29,Ruptured intracranial aneurysm,Female,66,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA30,ECM_Remodeling,1.26551858809149,15,15,GSM3487882,IA30,Ruptured intracranial aneurysm,Male,58,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA31,ECM_Remodeling,-1.15210419867304,15,15,GSM3487883,IA31,Unruptured intracranial aneurysm,Female,39,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA32,ECM_Remodeling,-0.0546950772609439,15,15,GSM3487884,IA32,Ruptured intracranial aneurysm,Male,48,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA33,ECM_Remodeling,0.295398243890041,15,15,GSM3487885,IA33,Ruptured intracranial aneurysm,Female,63,PCOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA34,ECM_Remodeling,0.19986436873783,15,15,GSM3487886,IA34,Unruptured intracranial aneurysm,Female,24,ICA,Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA35,ECM_Remodeling,0.923043151685221,15,15,GSM3487887,IA35,Ruptured intracranial aneurysm,Female,46,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA36,ECM_Remodeling,0.995238699517564,15,15,GSM3487888,IA36,Ruptured intracranial aneurysm,Female,50,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA37,ECM_Remodeling,0.233230005473525,15,15,GSM3487889,IA37,Unruptured intracranial aneurysm,Female,50,ACM (M1),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA38,ECM_Remodeling,0.770123437110984,15,15,GSM3487890,IA38,Ruptured intracranial aneurysm,Female,49,ACOM,Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA39,ECM_Remodeling,1.30431412242678,15,15,GSM3487891,IA39,Ruptured intracranial aneurysm,Female,70,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA41,ECM_Remodeling,-0.0672915859915414,15,15,GSM3487893,IA41,Unruptured intracranial aneurysm,Male,60,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA42,ECM_Remodeling,0.530740685057704,15,15,GSM3487894,IA42,Unruptured intracranial aneurysm,Female,50,ACM (M2 or more distal),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE122897,IA43,ECM_Remodeling,-2.09849178543344,15,15,GSM3487895,IA43,Ruptured intracranial aneurysm,Female,63,ACM (M2 or more distal),Ruptured intracranial aneurysm,Ruptured,,,,,,
+GSE122897,IA44,ECM_Remodeling,0.383906472001163,15,15,GSM3487896,IA44,Unruptured intracranial aneurysm,Female,63,ACM (M1),Unruptured intracranial aneurysm,Unruptured,,,,,,
+GSE13353,GSM337102,AMPK_SIRT1,0.253814140449836,11,11,GSM337102,aneurysm_ruptured_rep1,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337103,AMPK_SIRT1,0.426251497410412,11,11,GSM337103,aneurysm_ruptured_rep2,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337104,AMPK_SIRT1,-0.219121936687299,11,11,GSM337104,aneurysm_ruptured_rep3,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337105,AMPK_SIRT1,-0.0237279857641261,11,11,GSM337105,aneurysm_ruptured_rep4,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337106,AMPK_SIRT1,0.37868276250972,11,11,GSM337106,aneurysm_ruptured_rep5,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337107,AMPK_SIRT1,0.543006111048299,11,11,GSM337107,aneurysm_unruptured_rep1,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337108,AMPK_SIRT1,-0.0600191825631445,11,11,GSM337108,aneurysm_unruptured_rep2,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337109,AMPK_SIRT1,0.0558061458835499,11,11,GSM337109,aneurysm_ruptured_rep6,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337110,AMPK_SIRT1,0.242810143164153,11,11,GSM337110,aneurysm_unruptured_rep3,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337111,AMPK_SIRT1,0.155967590199057,11,11,GSM337111,aneurysm_unruptured_rep4,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337112,AMPK_SIRT1,0.246607344939181,11,11,GSM337112,aneurysm_unruptured_rep5,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337113,AMPK_SIRT1,0.227669791477378,11,11,GSM337113,aneurysm_unruptured_rep6,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337114,AMPK_SIRT1,-0.305299007087772,11,11,GSM337114,aneurysm_unruptured_rep7,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337115,AMPK_SIRT1,-1.00921212266104,11,11,GSM337115,aneurysm_unruptured_rep8,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337116,AMPK_SIRT1,-0.413346338433733,11,11,GSM337116,aneurysm_ruptured_rep7,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337117,AMPK_SIRT1,0.221977920239162,11,11,GSM337117,aneurysm_ruptured_rep8,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337118,AMPK_SIRT1,-0.838328575039735,11,11,GSM337118,aneurysm_ruptured_rep9,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337119,AMPK_SIRT1,0.535747327944353,11,11,GSM337119,aneurysm_ruptured_rep10,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337120,AMPK_SIRT1,-0.419285627028248,11,11,GSM337120,aneurysm_ruptured_rep11,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337102,Contractile,-0.178823428404294,12,12,GSM337102,aneurysm_ruptured_rep1,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337103,Contractile,-0.479828209220506,12,12,GSM337103,aneurysm_ruptured_rep2,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337104,Contractile,-0.770526077870201,12,12,GSM337104,aneurysm_ruptured_rep3,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337105,Contractile,0.525861874486563,12,12,GSM337105,aneurysm_ruptured_rep4,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337106,Contractile,0.0765943455423736,12,12,GSM337106,aneurysm_ruptured_rep5,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337107,Contractile,0.929616701322387,12,12,GSM337107,aneurysm_unruptured_rep1,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337108,Contractile,1.3487842181525,12,12,GSM337108,aneurysm_unruptured_rep2,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337109,Contractile,-1.6366672172698,12,12,GSM337109,aneurysm_ruptured_rep6,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337110,Contractile,0.842315593119921,12,12,GSM337110,aneurysm_unruptured_rep3,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337111,Contractile,0.719359277436548,12,12,GSM337111,aneurysm_unruptured_rep4,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337112,Contractile,-1.17791488165244,12,12,GSM337112,aneurysm_unruptured_rep5,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337113,Contractile,-0.139976885549137,12,12,GSM337113,aneurysm_unruptured_rep6,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337114,Contractile,-0.02740010835793,12,12,GSM337114,aneurysm_unruptured_rep7,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337115,Contractile,0.99202532647331,12,12,GSM337115,aneurysm_unruptured_rep8,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337116,Contractile,-0.516228221945883,12,12,GSM337116,aneurysm_ruptured_rep7,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337117,Contractile,1.18315676649918,12,12,GSM337117,aneurysm_ruptured_rep8,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337118,Contractile,-0.120223332343672,12,12,GSM337118,aneurysm_ruptured_rep9,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337119,Contractile,-1.11404432879156,12,12,GSM337119,aneurysm_ruptured_rep10,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337120,Contractile,-0.456081411627364,12,12,GSM337120,aneurysm_ruptured_rep11,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337102,Inflammatory,0.157488827330208,15,15,GSM337102,aneurysm_ruptured_rep1,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337103,Inflammatory,0.427926120480072,15,15,GSM337103,aneurysm_ruptured_rep2,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337104,Inflammatory,0.727210988407622,15,15,GSM337104,aneurysm_ruptured_rep3,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337105,Inflammatory,0.259530645757426,15,15,GSM337105,aneurysm_ruptured_rep4,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337106,Inflammatory,0.751781757647842,15,15,GSM337106,aneurysm_ruptured_rep5,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337107,Inflammatory,-1.0167559045038,15,15,GSM337107,aneurysm_unruptured_rep1,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337108,Inflammatory,-0.477719468807147,15,15,GSM337108,aneurysm_unruptured_rep2,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337109,Inflammatory,0.394878991967121,15,15,GSM337109,aneurysm_ruptured_rep6,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337110,Inflammatory,-0.563376624495172,15,15,GSM337110,aneurysm_unruptured_rep3,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337111,Inflammatory,-0.668180413392088,15,15,GSM337111,aneurysm_unruptured_rep4,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337112,Inflammatory,-0.210484112689518,15,15,GSM337112,aneurysm_unruptured_rep5,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337113,Inflammatory,0.281269155304648,15,15,GSM337113,aneurysm_unruptured_rep6,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337114,Inflammatory,-0.062848850622436,15,15,GSM337114,aneurysm_unruptured_rep7,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337115,Inflammatory,-0.807463614060946,15,15,GSM337115,aneurysm_unruptured_rep8,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337116,Inflammatory,0.688090326315125,15,15,GSM337116,aneurysm_ruptured_rep7,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337117,Inflammatory,-0.793734658645968,15,15,GSM337117,aneurysm_ruptured_rep8,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337118,Inflammatory,-0.0894591071747431,15,15,GSM337118,aneurysm_ruptured_rep9,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337119,Inflammatory,0.655432381156205,15,15,GSM337119,aneurysm_ruptured_rep10,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337120,Inflammatory,0.346413560025549,15,15,GSM337120,aneurysm_ruptured_rep11,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337102,ECM_Remodeling,-0.0607921915945715,15,15,GSM337102,aneurysm_ruptured_rep1,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337103,ECM_Remodeling,0.340768163014107,15,15,GSM337103,aneurysm_ruptured_rep2,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337104,ECM_Remodeling,0.36512749941697,15,15,GSM337104,aneurysm_ruptured_rep3,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337105,ECM_Remodeling,0.775348459218666,15,15,GSM337105,aneurysm_ruptured_rep4,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337106,ECM_Remodeling,0.692979215400791,15,15,GSM337106,aneurysm_ruptured_rep5,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337107,ECM_Remodeling,-0.210545978758157,15,15,GSM337107,aneurysm_unruptured_rep1,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337108,ECM_Remodeling,-0.488015755595591,15,15,GSM337108,aneurysm_unruptured_rep2,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337109,ECM_Remodeling,-0.855601340510918,15,15,GSM337109,aneurysm_ruptured_rep6,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337110,ECM_Remodeling,-0.00960349884291721,15,15,GSM337110,aneurysm_unruptured_rep3,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337111,ECM_Remodeling,-0.372521049201193,15,15,GSM337111,aneurysm_unruptured_rep4,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337112,ECM_Remodeling,-1.58094420047939,15,15,GSM337112,aneurysm_unruptured_rep5,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337113,ECM_Remodeling,-0.543492638927282,15,15,GSM337113,aneurysm_unruptured_rep6,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337114,ECM_Remodeling,0.751042491308488,15,15,GSM337114,aneurysm_unruptured_rep7,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337115,ECM_Remodeling,0.46301230654231,15,15,GSM337115,aneurysm_unruptured_rep8,unruptured aneurysm,,,,,Unruptured,,unruptured aneurysm,GPL570,,,
+GSE13353,GSM337116,ECM_Remodeling,0.793052263200235,15,15,GSM337116,aneurysm_ruptured_rep7,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337117,ECM_Remodeling,-0.0479620975711552,15,15,GSM337117,aneurysm_ruptured_rep8,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337118,ECM_Remodeling,0.443132838980459,15,15,GSM337118,aneurysm_ruptured_rep9,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337119,ECM_Remodeling,-1.23186274409458,15,15,GSM337119,aneurysm_ruptured_rep10,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE13353,GSM337120,ECM_Remodeling,0.776878258493732,15,15,GSM337120,aneurysm_ruptured_rep11,ruptured aneurysm,,,,,Ruptured,,ruptured aneurysm,GPL570,,,
+GSE15629,GSM391277,AMPK_SIRT1,-0.221029532906848,11,11,GSM391277,"Ruptured, Rep1",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391278,AMPK_SIRT1,-0.0999545902087311,11,11,GSM391278,"Unruptured, Rep1",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391279,AMPK_SIRT1,-0.122303817148763,11,11,GSM391279,"Control, Rep1",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391280,AMPK_SIRT1,0.0129671068090523,11,11,GSM391280,"Control, Rep2",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391281,AMPK_SIRT1,0.199875016849897,11,11,GSM391281,"Unruptured, Rep2",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391282,AMPK_SIRT1,0.26783551763119,11,11,GSM391282,"Control, Rep3",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391283,AMPK_SIRT1,-0.0691331272685934,11,11,GSM391283,"Ruptured, Rep2",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391284,AMPK_SIRT1,0.486642719084523,11,11,GSM391284,"Unruptured, Rep3",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391285,AMPK_SIRT1,-0.0909583278120505,11,11,GSM391285,"Unruptured, Rep4",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391286,AMPK_SIRT1,-0.0357945215469109,11,11,GSM391286,"Control, Rep4",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391287,AMPK_SIRT1,-0.253659454701346,11,11,GSM391287,"Ruptured, Rep3",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391288,AMPK_SIRT1,-0.281140709614263,11,11,GSM391288,"Unruptured, Rep5",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391289,AMPK_SIRT1,-0.0745305339993117,11,11,GSM391289,"Ruptured, Rep4",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391290,AMPK_SIRT1,0.113760142804581,11,11,GSM391290,"Ruptured, Rep5",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391291,AMPK_SIRT1,-0.136392506205837,11,11,GSM391291,"Ruptured, Rep6",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391292,AMPK_SIRT1,-0.86755449665309,11,11,GSM391292,"Unruptured, Rep6",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391293,AMPK_SIRT1,-0.0928643010484836,11,11,GSM391293,"Ruptured, Rep7",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391294,AMPK_SIRT1,0.460439591582909,11,11,GSM391294,"Ruptured, Rep8",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391295,AMPK_SIRT1,0.80379582435207,11,11,GSM391295,"Control, Rep5",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391277,Contractile,0.173889214055174,12,12,GSM391277,"Ruptured, Rep1",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391278,Contractile,-0.314562163332046,12,12,GSM391278,"Unruptured, Rep1",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391279,Contractile,0.872976409923097,12,12,GSM391279,"Control, Rep1",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391280,Contractile,0.168348194622382,12,12,GSM391280,"Control, Rep2",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391281,Contractile,-0.653270742582654,12,12,GSM391281,"Unruptured, Rep2",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391282,Contractile,1.04042375902415,12,12,GSM391282,"Control, Rep3",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391283,Contractile,0.378428036611405,12,12,GSM391283,"Ruptured, Rep2",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391284,Contractile,-1.52480597688356,12,12,GSM391284,"Unruptured, Rep3",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391285,Contractile,-0.974042671865865,12,12,GSM391285,"Unruptured, Rep4",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391286,Contractile,1.18860323089874,12,12,GSM391286,"Control, Rep4",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391287,Contractile,-0.12012728597147,12,12,GSM391287,"Ruptured, Rep3",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391288,Contractile,0.298966032252599,12,12,GSM391288,"Unruptured, Rep5",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391289,Contractile,-0.390622578474693,12,12,GSM391289,"Ruptured, Rep4",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391290,Contractile,0.578196891217952,12,12,GSM391290,"Ruptured, Rep5",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391291,Contractile,0.251432715280443,12,12,GSM391291,"Ruptured, Rep6",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391292,Contractile,-1.13741226654037,12,12,GSM391292,"Unruptured, Rep6",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391293,Contractile,-1.97607874649542,12,12,GSM391293,"Ruptured, Rep7",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391294,Contractile,0.975367097051175,12,12,GSM391294,"Ruptured, Rep8",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391295,Contractile,1.16429085120895,12,12,GSM391295,"Control, Rep5",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391277,Inflammatory,-0.369826051653196,15,15,GSM391277,"Ruptured, Rep1",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391278,Inflammatory,0.514464426814963,15,15,GSM391278,"Unruptured, Rep1",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391279,Inflammatory,-0.807221101955702,15,15,GSM391279,"Control, Rep1",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391280,Inflammatory,-0.645301419977001,15,15,GSM391280,"Control, Rep2",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391281,Inflammatory,1.2346789608092,15,15,GSM391281,"Unruptured, Rep2",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391282,Inflammatory,-0.729783186667642,15,15,GSM391282,"Control, Rep3",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391283,Inflammatory,-0.0345765062172374,15,15,GSM391283,"Ruptured, Rep2",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391284,Inflammatory,1.15171832367696,15,15,GSM391284,"Unruptured, Rep3",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391285,Inflammatory,0.145704685028227,15,15,GSM391285,"Unruptured, Rep4",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391286,Inflammatory,-0.667624578113732,15,15,GSM391286,"Control, Rep4",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391287,Inflammatory,-0.258836636102817,15,15,GSM391287,"Ruptured, Rep3",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391288,Inflammatory,-0.0540678847972703,15,15,GSM391288,"Unruptured, Rep5",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391289,Inflammatory,0.20709360781178,15,15,GSM391289,"Ruptured, Rep4",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391290,Inflammatory,0.860648833536731,15,15,GSM391290,"Ruptured, Rep5",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391291,Inflammatory,0.045792930574565,15,15,GSM391291,"Ruptured, Rep6",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391292,Inflammatory,-0.11039393605833,15,15,GSM391292,"Unruptured, Rep6",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391293,Inflammatory,0.727834837073217,15,15,GSM391293,"Ruptured, Rep7",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391294,Inflammatory,-0.462931014861954,15,15,GSM391294,"Ruptured, Rep8",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391295,Inflammatory,-0.747374288920764,15,15,GSM391295,"Control, Rep5",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391277,ECM_Remodeling,0.527971589727263,15,15,GSM391277,"Ruptured, Rep1",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391278,ECM_Remodeling,0.919170071178394,15,15,GSM391278,"Unruptured, Rep1",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391279,ECM_Remodeling,0.0946029818169407,15,15,GSM391279,"Control, Rep1",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391280,ECM_Remodeling,-1.10817707918123,15,15,GSM391280,"Control, Rep2",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391281,ECM_Remodeling,0.359123854030007,15,15,GSM391281,"Unruptured, Rep2",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391282,ECM_Remodeling,-0.279490575100914,15,15,GSM391282,"Control, Rep3",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391283,ECM_Remodeling,0.560407314473256,15,15,GSM391283,"Ruptured, Rep2",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391284,ECM_Remodeling,-0.0759455991076994,15,15,GSM391284,"Unruptured, Rep3",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391285,ECM_Remodeling,0.348493392642587,15,15,GSM391285,"Unruptured, Rep4",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391286,ECM_Remodeling,-0.519640586014737,15,15,GSM391286,"Control, Rep4",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE15629,GSM391287,ECM_Remodeling,0.913878697466826,15,15,GSM391287,"Ruptured, Rep3",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391288,ECM_Remodeling,0.230395373060003,15,15,GSM391288,"Unruptured, Rep5",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391289,ECM_Remodeling,0.91913347758407,15,15,GSM391289,"Ruptured, Rep4",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391290,ECM_Remodeling,0.116457979042719,15,15,GSM391290,"Ruptured, Rep5",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391291,ECM_Remodeling,0.310065514066678,15,15,GSM391291,"Ruptured, Rep6",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391292,ECM_Remodeling,-0.168033482615604,15,15,GSM391292,"Unruptured, Rep6",Full-thickness vessel wall sample,,,,,Unruptured,,,GPL6244,Full-thickness vessel wall sample,Unruptured,
+GSE15629,GSM391293,ECM_Remodeling,-1.46588971633673,15,15,GSM391293,"Ruptured, Rep7",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391294,ECM_Remodeling,-0.634568887239414,15,15,GSM391294,"Ruptured, Rep8",Full-thickness vessel wall sample,,,,,Ruptured,,,GPL6244,Full-thickness vessel wall sample,Ruptured,
+GSE15629,GSM391295,ECM_Remodeling,-1.04795431949241,15,15,GSM391295,"Control, Rep5",Full-thickness vessel wall sample,,,,,Control,,,GPL6244,Full-thickness vessel wall sample,Control,
+GSE75436,GSM1955147,AMPK_SIRT1,0.413431418941698,11,11,GSM1955147,intracranial aneurysm1 matched superficial temporal artery,intracranial aneurysm1 matched superficial temporal artery,,,,,STA,1,,GPL570,superficial temporal artery,,1
+GSE75436,GSM1955148,AMPK_SIRT1,0.271774229441072,11,11,GSM1955148,intracranial aneurysm1,intracranial aneurysm1,,,,,IA,1,,GPL570,intracranial aneurysm,,1
+GSE75436,GSM1955149,AMPK_SIRT1,0.416657368429026,11,11,GSM1955149,intracranial aneurysm2 matched superficial temporal artery,intracranial aneurysm2 matched superficial temporal artery,,,,,STA,2,,GPL570,superficial temporal artery,,2
+GSE75436,GSM1955150,AMPK_SIRT1,0.19331574001158,11,11,GSM1955150,intracranial aneurysm2,intracranial aneurysm2,,,,,IA,2,,GPL570,intracranial aneurysm,,2
+GSE75436,GSM1955151,AMPK_SIRT1,0.564024999844617,11,11,GSM1955151,intracranial aneurysm3 matched superficial temporal artery,intracranial aneurysm3 matched superficial temporal artery,,,,,STA,3,,GPL570,superficial temporal artery,,3
+GSE75436,GSM1955152,AMPK_SIRT1,0.0201560324261076,11,11,GSM1955152,intracranial aneurysm3,intracranial aneurysm3,,,,,IA,3,,GPL570,intracranial aneurysm,,3
+GSE75436,GSM1955153,AMPK_SIRT1,-0.197752122383605,11,11,GSM1955153,intracranial aneurysm4,intracranial aneurysm4,,,,,IA,4,,GPL570,intracranial aneurysm,,4
+GSE75436,GSM1955154,AMPK_SIRT1,0.225328772820752,11,11,GSM1955154,intracranial aneurysm4 matched superficial temporal artery,intracranial aneurysm4 matched superficial temporal artery,,,,,STA,4,,GPL570,superficial temporal artery,,4
+GSE75436,GSM1955155,AMPK_SIRT1,-0.0572416510192633,11,11,GSM1955155,intracranial aneurysm5,intracranial aneurysm5,,,,,IA,5,,GPL570,intracranial aneurysm,,5
+GSE75436,GSM1955156,AMPK_SIRT1,0.579375027750087,11,11,GSM1955156,intracranial aneurysm5 matched superficial temporal artery,intracranial aneurysm5 matched superficial temporal artery,,,,,STA,5,,GPL570,superficial temporal artery,,5
+GSE75436,GSM1955157,AMPK_SIRT1,-0.31448681512761,11,11,GSM1955157,intracranial aneurysm6,intracranial aneurysm6,,,,,IA,6,,GPL570,intracranial aneurysm,,6
+GSE75436,GSM1955158,AMPK_SIRT1,-0.31968470293505,11,11,GSM1955158,intracranial aneurysm6 matched superficial temporal artery,intracranial aneurysm6 matched superficial temporal artery,,,,,STA,6,,GPL570,superficial temporal artery,,6
+GSE75436,GSM1955159,AMPK_SIRT1,-0.432712443160527,11,11,GSM1955159,intracranial aneurysm7,intracranial aneurysm7,,,,,IA,7,,GPL570,intracranial aneurysm,,7
+GSE75436,GSM1955160,AMPK_SIRT1,0.123383388726805,11,11,GSM1955160,intracranial aneurysm7 matched superficial temporal artery,intracranial aneurysm7 matched superficial temporal artery,,,,,STA,7,,GPL570,superficial temporal artery,,7
+GSE75436,GSM1955161,AMPK_SIRT1,-0.42495297285417,11,11,GSM1955161,intracranial aneurysm8,intracranial aneurysm8,,,,,IA,8,,GPL570,intracranial aneurysm,,8
+GSE75436,GSM1955162,AMPK_SIRT1,0.249473791277558,11,11,GSM1955162,intracranial aneurysm8 matched superficial temporal artery,intracranial aneurysm8 matched superficial temporal artery,,,,,STA,8,,GPL570,superficial temporal artery,,8
+GSE75436,GSM1955163,AMPK_SIRT1,-0.162392029360914,11,11,GSM1955163,intracranial aneurysm9,intracranial aneurysm9,,,,,IA,9,,GPL570,intracranial aneurysm,,9
+GSE75436,GSM1955164,AMPK_SIRT1,0.210556860245593,11,11,GSM1955164,intracranial aneurysm9 matched superficial temporal artery,intracranial aneurysm9 matched superficial temporal artery,,,,,STA,9,,GPL570,superficial temporal artery,,9
+GSE75436,GSM1955165,AMPK_SIRT1,-0.999483976206329,11,11,GSM1955165,intracranial aneurysm10,intracranial aneurysm10,,,,,IA,10,,GPL570,intracranial aneurysm,,10
+GSE75436,GSM1955166,AMPK_SIRT1,-0.351624830447173,11,11,GSM1955166,intracranial aneurysm10 matched superficial temporal artery,intracranial aneurysm10 matched superficial temporal artery,,,,,STA,10,,GPL570,superficial temporal artery,,10
+GSE75436,GSM1955167,AMPK_SIRT1,-0.564672510003772,11,11,GSM1955167,intracranial aneurysm11,intracranial aneurysm11,,,,,IA,11,,GPL570,intracranial aneurysm,,11
+GSE75436,GSM1955168,AMPK_SIRT1,0.10830055829382,11,11,GSM1955168,intracranial aneurysm11 matched superficial temporal artery,intracranial aneurysm11 matched superficial temporal artery,,,,,STA,11,,GPL570,superficial temporal artery,,11
+GSE75436,GSM1955169,AMPK_SIRT1,0.0558278412828951,11,11,GSM1955169,intracranial aneurysm12,intracranial aneurysm12,,,,,IA,12,,GPL570,intracranial aneurysm,,12
+GSE75436,GSM1955170,AMPK_SIRT1,-0.176879464479816,11,11,GSM1955170,intracranial aneurysm12 matched superficial temporal artery,intracranial aneurysm12 matched superficial temporal artery,,,,,STA,12,,GPL570,superficial temporal artery,,12
+GSE75436,GSM1955171,AMPK_SIRT1,0.113125666761948,11,11,GSM1955171,intracranial aneurysm13,intracranial aneurysm13,,,,,IA,13,,GPL570,intracranial aneurysm,,13
+GSE75436,GSM1955172,AMPK_SIRT1,0.697884988395339,11,11,GSM1955172,intracranial aneurysm13 matched superficial temporal artery,intracranial aneurysm13 matched superficial temporal artery,,,,,STA,13,,GPL570,superficial temporal artery,,13
+GSE75436,GSM1955173,AMPK_SIRT1,-0.386745937071895,11,11,GSM1955173,intracranial aneurysm14,intracranial aneurysm14,,,,,IA,14,,GPL570,intracranial aneurysm,,14
+GSE75436,GSM1955174,AMPK_SIRT1,0.293927790999465,11,11,GSM1955174,intracranial aneurysm14 matched superficial temporal artery,intracranial aneurysm14 matched superficial temporal artery,,,,,STA,14,,GPL570,superficial temporal artery,,14
+GSE75436,GSM1955175,AMPK_SIRT1,-0.119597810555466,11,11,GSM1955175,intracranial aneurysm15,intracranial aneurysm15,,,,,IA,15,,GPL570,intracranial aneurysm,,15
+GSE75436,GSM1955176,AMPK_SIRT1,-0.0283172100427655,11,11,GSM1955176,intracranial aneurysm15 matched superficial temporal artery,intracranial aneurysm15 matched superficial temporal artery,,,,,STA,15,,GPL570,superficial temporal artery,,15
+GSE75436,GSM1955147,Contractile,0.470407504005583,12,12,GSM1955147,intracranial aneurysm1 matched superficial temporal artery,intracranial aneurysm1 matched superficial temporal artery,,,,,STA,1,,GPL570,superficial temporal artery,,1
+GSE75436,GSM1955148,Contractile,-0.403773052470332,12,12,GSM1955148,intracranial aneurysm1,intracranial aneurysm1,,,,,IA,1,,GPL570,intracranial aneurysm,,1
+GSE75436,GSM1955149,Contractile,0.470678823432588,12,12,GSM1955149,intracranial aneurysm2 matched superficial temporal artery,intracranial aneurysm2 matched superficial temporal artery,,,,,STA,2,,GPL570,superficial temporal artery,,2
+GSE75436,GSM1955150,Contractile,-1.26645249752656,12,12,GSM1955150,intracranial aneurysm2,intracranial aneurysm2,,,,,IA,2,,GPL570,intracranial aneurysm,,2
+GSE75436,GSM1955151,Contractile,0.586012271925813,12,12,GSM1955151,intracranial aneurysm3 matched superficial temporal artery,intracranial aneurysm3 matched superficial temporal artery,,,,,STA,3,,GPL570,superficial temporal artery,,3
+GSE75436,GSM1955152,Contractile,-0.378812688609349,12,12,GSM1955152,intracranial aneurysm3,intracranial aneurysm3,,,,,IA,3,,GPL570,intracranial aneurysm,,3
+GSE75436,GSM1955153,Contractile,-0.233759818601262,12,12,GSM1955153,intracranial aneurysm4,intracranial aneurysm4,,,,,IA,4,,GPL570,intracranial aneurysm,,4
+GSE75436,GSM1955154,Contractile,0.263558033534029,12,12,GSM1955154,intracranial aneurysm4 matched superficial temporal artery,intracranial aneurysm4 matched superficial temporal artery,,,,,STA,4,,GPL570,superficial temporal artery,,4
+GSE75436,GSM1955155,Contractile,-1.18702398925897,12,12,GSM1955155,intracranial aneurysm5,intracranial aneurysm5,,,,,IA,5,,GPL570,intracranial aneurysm,,5
+GSE75436,GSM1955156,Contractile,-1.0927562724602,12,12,GSM1955156,intracranial aneurysm5 matched superficial temporal artery,intracranial aneurysm5 matched superficial temporal artery,,,,,STA,5,,GPL570,superficial temporal artery,,5
+GSE75436,GSM1955157,Contractile,-1.54710614436956,12,12,GSM1955157,intracranial aneurysm6,intracranial aneurysm6,,,,,IA,6,,GPL570,intracranial aneurysm,,6
+GSE75436,GSM1955158,Contractile,1.15157515131657,12,12,GSM1955158,intracranial aneurysm6 matched superficial temporal artery,intracranial aneurysm6 matched superficial temporal artery,,,,,STA,6,,GPL570,superficial temporal artery,,6
+GSE75436,GSM1955159,Contractile,-0.176239766377494,12,12,GSM1955159,intracranial aneurysm7,intracranial aneurysm7,,,,,IA,7,,GPL570,intracranial aneurysm,,7
+GSE75436,GSM1955160,Contractile,1.33625012231561,12,12,GSM1955160,intracranial aneurysm7 matched superficial temporal artery,intracranial aneurysm7 matched superficial temporal artery,,,,,STA,7,,GPL570,superficial temporal artery,,7
+GSE75436,GSM1955161,Contractile,0.018318056009825,12,12,GSM1955161,intracranial aneurysm8,intracranial aneurysm8,,,,,IA,8,,GPL570,intracranial aneurysm,,8
+GSE75436,GSM1955162,Contractile,1.34700420226304,12,12,GSM1955162,intracranial aneurysm8 matched superficial temporal artery,intracranial aneurysm8 matched superficial temporal artery,,,,,STA,8,,GPL570,superficial temporal artery,,8
+GSE75436,GSM1955163,Contractile,-0.346035428293186,12,12,GSM1955163,intracranial aneurysm9,intracranial aneurysm9,,,,,IA,9,,GPL570,intracranial aneurysm,,9
+GSE75436,GSM1955164,Contractile,1.21358942941052,12,12,GSM1955164,intracranial aneurysm9 matched superficial temporal artery,intracranial aneurysm9 matched superficial temporal artery,,,,,STA,9,,GPL570,superficial temporal artery,,9
+GSE75436,GSM1955165,Contractile,-0.842576963529115,12,12,GSM1955165,intracranial aneurysm10,intracranial aneurysm10,,,,,IA,10,,GPL570,intracranial aneurysm,,10
+GSE75436,GSM1955166,Contractile,1.17629981888591,12,12,GSM1955166,intracranial aneurysm10 matched superficial temporal artery,intracranial aneurysm10 matched superficial temporal artery,,,,,STA,10,,GPL570,superficial temporal artery,,10
+GSE75436,GSM1955167,Contractile,-1.38889314127849,12,12,GSM1955167,intracranial aneurysm11,intracranial aneurysm11,,,,,IA,11,,GPL570,intracranial aneurysm,,11
+GSE75436,GSM1955168,Contractile,0.605021672675092,12,12,GSM1955168,intracranial aneurysm11 matched superficial temporal artery,intracranial aneurysm11 matched superficial temporal artery,,,,,STA,11,,GPL570,superficial temporal artery,,11
+GSE75436,GSM1955169,Contractile,-0.233764152715382,12,12,GSM1955169,intracranial aneurysm12,intracranial aneurysm12,,,,,IA,12,,GPL570,intracranial aneurysm,,12
+GSE75436,GSM1955170,Contractile,0.660157517056196,12,12,GSM1955170,intracranial aneurysm12 matched superficial temporal artery,intracranial aneurysm12 matched superficial temporal artery,,,,,STA,12,,GPL570,superficial temporal artery,,12
+GSE75436,GSM1955171,Contractile,-1.06955867221459,12,12,GSM1955171,intracranial aneurysm13,intracranial aneurysm13,,,,,IA,13,,GPL570,intracranial aneurysm,,13
+GSE75436,GSM1955172,Contractile,0.484125108786117,12,12,GSM1955172,intracranial aneurysm13 matched superficial temporal artery,intracranial aneurysm13 matched superficial temporal artery,,,,,STA,13,,GPL570,superficial temporal artery,,13
+GSE75436,GSM1955173,Contractile,0.168315849941848,12,12,GSM1955173,intracranial aneurysm14,intracranial aneurysm14,,,,,IA,14,,GPL570,intracranial aneurysm,,14
+GSE75436,GSM1955174,Contractile,0.523246320250235,12,12,GSM1955174,intracranial aneurysm14 matched superficial temporal artery,intracranial aneurysm14 matched superficial temporal artery,,,,,STA,14,,GPL570,superficial temporal artery,,14
+GSE75436,GSM1955175,Contractile,-1.06951169702944,12,12,GSM1955175,intracranial aneurysm15,intracranial aneurysm15,,,,,IA,15,,GPL570,intracranial aneurysm,,15
+GSE75436,GSM1955176,Contractile,0.761704402924963,12,12,GSM1955176,intracranial aneurysm15 matched superficial temporal artery,intracranial aneurysm15 matched superficial temporal artery,,,,,STA,15,,GPL570,superficial temporal artery,,15
+GSE75436,GSM1955147,Inflammatory,-0.470374071968967,15,15,GSM1955147,intracranial aneurysm1 matched superficial temporal artery,intracranial aneurysm1 matched superficial temporal artery,,,,,STA,1,,GPL570,superficial temporal artery,,1
+GSE75436,GSM1955148,Inflammatory,0.175165161371106,15,15,GSM1955148,intracranial aneurysm1,intracranial aneurysm1,,,,,IA,1,,GPL570,intracranial aneurysm,,1
+GSE75436,GSM1955149,Inflammatory,-0.454237826874874,15,15,GSM1955149,intracranial aneurysm2 matched superficial temporal artery,intracranial aneurysm2 matched superficial temporal artery,,,,,STA,2,,GPL570,superficial temporal artery,,2
+GSE75436,GSM1955150,Inflammatory,0.30595504716519,15,15,GSM1955150,intracranial aneurysm2,intracranial aneurysm2,,,,,IA,2,,GPL570,intracranial aneurysm,,2
+GSE75436,GSM1955151,Inflammatory,-0.250670008654038,15,15,GSM1955151,intracranial aneurysm3 matched superficial temporal artery,intracranial aneurysm3 matched superficial temporal artery,,,,,STA,3,,GPL570,superficial temporal artery,,3
+GSE75436,GSM1955152,Inflammatory,-0.336777423725665,15,15,GSM1955152,intracranial aneurysm3,intracranial aneurysm3,,,,,IA,3,,GPL570,intracranial aneurysm,,3
+GSE75436,GSM1955153,Inflammatory,0.549023144311633,15,15,GSM1955153,intracranial aneurysm4,intracranial aneurysm4,,,,,IA,4,,GPL570,intracranial aneurysm,,4
+GSE75436,GSM1955154,Inflammatory,0.608735475435734,15,15,GSM1955154,intracranial aneurysm4 matched superficial temporal artery,intracranial aneurysm4 matched superficial temporal artery,,,,,STA,4,,GPL570,superficial temporal artery,,4
+GSE75436,GSM1955155,Inflammatory,0.534986466182402,15,15,GSM1955155,intracranial aneurysm5,intracranial aneurysm5,,,,,IA,5,,GPL570,intracranial aneurysm,,5
+GSE75436,GSM1955156,Inflammatory,0.467679830465523,15,15,GSM1955156,intracranial aneurysm5 matched superficial temporal artery,intracranial aneurysm5 matched superficial temporal artery,,,,,STA,5,,GPL570,superficial temporal artery,,5
+GSE75436,GSM1955157,Inflammatory,0.200799748987811,15,15,GSM1955157,intracranial aneurysm6,intracranial aneurysm6,,,,,IA,6,,GPL570,intracranial aneurysm,,6
+GSE75436,GSM1955158,Inflammatory,-0.158238231090515,15,15,GSM1955158,intracranial aneurysm6 matched superficial temporal artery,intracranial aneurysm6 matched superficial temporal artery,,,,,STA,6,,GPL570,superficial temporal artery,,6
+GSE75436,GSM1955159,Inflammatory,0.475454369906473,15,15,GSM1955159,intracranial aneurysm7,intracranial aneurysm7,,,,,IA,7,,GPL570,intracranial aneurysm,,7
+GSE75436,GSM1955160,Inflammatory,-1.45088732522383,15,15,GSM1955160,intracranial aneurysm7 matched superficial temporal artery,intracranial aneurysm7 matched superficial temporal artery,,,,,STA,7,,GPL570,superficial temporal artery,,7
+GSE75436,GSM1955161,Inflammatory,0.0507059906697961,15,15,GSM1955161,intracranial aneurysm8,intracranial aneurysm8,,,,,IA,8,,GPL570,intracranial aneurysm,,8
+GSE75436,GSM1955162,Inflammatory,0.454640581678035,15,15,GSM1955162,intracranial aneurysm8 matched superficial temporal artery,intracranial aneurysm8 matched superficial temporal artery,,,,,STA,8,,GPL570,superficial temporal artery,,8
+GSE75436,GSM1955163,Inflammatory,-0.305881616875312,15,15,GSM1955163,intracranial aneurysm9,intracranial aneurysm9,,,,,IA,9,,GPL570,intracranial aneurysm,,9
+GSE75436,GSM1955164,Inflammatory,-0.354819520848435,15,15,GSM1955164,intracranial aneurysm9 matched superficial temporal artery,intracranial aneurysm9 matched superficial temporal artery,,,,,STA,9,,GPL570,superficial temporal artery,,9
+GSE75436,GSM1955165,Inflammatory,-0.3747295041073,15,15,GSM1955165,intracranial aneurysm10,intracranial aneurysm10,,,,,IA,10,,GPL570,intracranial aneurysm,,10
+GSE75436,GSM1955166,Inflammatory,-0.997163102177292,15,15,GSM1955166,intracranial aneurysm10 matched superficial temporal artery,intracranial aneurysm10 matched superficial temporal artery,,,,,STA,10,,GPL570,superficial temporal artery,,10
+GSE75436,GSM1955167,Inflammatory,0.430088340948546,15,15,GSM1955167,intracranial aneurysm11,intracranial aneurysm11,,,,,IA,11,,GPL570,intracranial aneurysm,,11
+GSE75436,GSM1955168,Inflammatory,-0.528341426145695,15,15,GSM1955168,intracranial aneurysm11 matched superficial temporal artery,intracranial aneurysm11 matched superficial temporal artery,,,,,STA,11,,GPL570,superficial temporal artery,,11
+GSE75436,GSM1955169,Inflammatory,0.359833193026614,15,15,GSM1955169,intracranial aneurysm12,intracranial aneurysm12,,,,,IA,12,,GPL570,intracranial aneurysm,,12
+GSE75436,GSM1955170,Inflammatory,0.309050228714225,15,15,GSM1955170,intracranial aneurysm12 matched superficial temporal artery,intracranial aneurysm12 matched superficial temporal artery,,,,,STA,12,,GPL570,superficial temporal artery,,12
+GSE75436,GSM1955171,Inflammatory,1.16606654907625,15,15,GSM1955171,intracranial aneurysm13,intracranial aneurysm13,,,,,IA,13,,GPL570,intracranial aneurysm,,13
+GSE75436,GSM1955172,Inflammatory,0.523782816604567,15,15,GSM1955172,intracranial aneurysm13 matched superficial temporal artery,intracranial aneurysm13 matched superficial temporal artery,,,,,STA,13,,GPL570,superficial temporal artery,,13
+GSE75436,GSM1955173,Inflammatory,-0.391267499567324,15,15,GSM1955173,intracranial aneurysm14,intracranial aneurysm14,,,,,IA,14,,GPL570,intracranial aneurysm,,14
+GSE75436,GSM1955174,Inflammatory,0.00709204092594176,15,15,GSM1955174,intracranial aneurysm14 matched superficial temporal artery,intracranial aneurysm14 matched superficial temporal artery,,,,,STA,14,,GPL570,superficial temporal artery,,14
+GSE75436,GSM1955175,Inflammatory,0.0875575463711425,15,15,GSM1955175,intracranial aneurysm15,intracranial aneurysm15,,,,,IA,15,,GPL570,intracranial aneurysm,,15
+GSE75436,GSM1955176,Inflammatory,-0.633228974581744,15,15,GSM1955176,intracranial aneurysm15 matched superficial temporal artery,intracranial aneurysm15 matched superficial temporal artery,,,,,STA,15,,GPL570,superficial temporal artery,,15
+GSE75436,GSM1955147,ECM_Remodeling,-0.486306373183482,15,15,GSM1955147,intracranial aneurysm1 matched superficial temporal artery,intracranial aneurysm1 matched superficial temporal artery,,,,,STA,1,,GPL570,superficial temporal artery,,1
+GSE75436,GSM1955148,ECM_Remodeling,0.47901207595624,15,15,GSM1955148,intracranial aneurysm1,intracranial aneurysm1,,,,,IA,1,,GPL570,intracranial aneurysm,,1
+GSE75436,GSM1955149,ECM_Remodeling,-0.802553598424996,15,15,GSM1955149,intracranial aneurysm2 matched superficial temporal artery,intracranial aneurysm2 matched superficial temporal artery,,,,,STA,2,,GPL570,superficial temporal artery,,2
+GSE75436,GSM1955150,ECM_Remodeling,0.571161778510775,15,15,GSM1955150,intracranial aneurysm2,intracranial aneurysm2,,,,,IA,2,,GPL570,intracranial aneurysm,,2
+GSE75436,GSM1955151,ECM_Remodeling,-0.817012048387304,15,15,GSM1955151,intracranial aneurysm3 matched superficial temporal artery,intracranial aneurysm3 matched superficial temporal artery,,,,,STA,3,,GPL570,superficial temporal artery,,3
+GSE75436,GSM1955152,ECM_Remodeling,0.713315224614146,15,15,GSM1955152,intracranial aneurysm3,intracranial aneurysm3,,,,,IA,3,,GPL570,intracranial aneurysm,,3
+GSE75436,GSM1955153,ECM_Remodeling,0.0944755355673781,15,15,GSM1955153,intracranial aneurysm4,intracranial aneurysm4,,,,,IA,4,,GPL570,intracranial aneurysm,,4
+GSE75436,GSM1955154,ECM_Remodeling,-0.351732823385032,15,15,GSM1955154,intracranial aneurysm4 matched superficial temporal artery,intracranial aneurysm4 matched superficial temporal artery,,,,,STA,4,,GPL570,superficial temporal artery,,4
+GSE75436,GSM1955155,ECM_Remodeling,0.422273065540915,15,15,GSM1955155,intracranial aneurysm5,intracranial aneurysm5,,,,,IA,5,,GPL570,intracranial aneurysm,,5
+GSE75436,GSM1955156,ECM_Remodeling,-0.369564863173139,15,15,GSM1955156,intracranial aneurysm5 matched superficial temporal artery,intracranial aneurysm5 matched superficial temporal artery,,,,,STA,5,,GPL570,superficial temporal artery,,5
+GSE75436,GSM1955157,ECM_Remodeling,-0.0600039456977349,15,15,GSM1955157,intracranial aneurysm6,intracranial aneurysm6,,,,,IA,6,,GPL570,intracranial aneurysm,,6
+GSE75436,GSM1955158,ECM_Remodeling,0.102904179998474,15,15,GSM1955158,intracranial aneurysm6 matched superficial temporal artery,intracranial aneurysm6 matched superficial temporal artery,,,,,STA,6,,GPL570,superficial temporal artery,,6
+GSE75436,GSM1955159,ECM_Remodeling,0.777902302814321,15,15,GSM1955159,intracranial aneurysm7,intracranial aneurysm7,,,,,IA,7,,GPL570,intracranial aneurysm,,7
+GSE75436,GSM1955160,ECM_Remodeling,-0.682168859152513,15,15,GSM1955160,intracranial aneurysm7 matched superficial temporal artery,intracranial aneurysm7 matched superficial temporal artery,,,,,STA,7,,GPL570,superficial temporal artery,,7
+GSE75436,GSM1955161,ECM_Remodeling,0.80254698083397,15,15,GSM1955161,intracranial aneurysm8,intracranial aneurysm8,,,,,IA,8,,GPL570,intracranial aneurysm,,8
+GSE75436,GSM1955162,ECM_Remodeling,-0.939292614162812,15,15,GSM1955162,intracranial aneurysm8 matched superficial temporal artery,intracranial aneurysm8 matched superficial temporal artery,,,,,STA,8,,GPL570,superficial temporal artery,,8
+GSE75436,GSM1955163,ECM_Remodeling,0.925379978743594,15,15,GSM1955163,intracranial aneurysm9,intracranial aneurysm9,,,,,IA,9,,GPL570,intracranial aneurysm,,9
+GSE75436,GSM1955164,ECM_Remodeling,-0.566761363968686,15,15,GSM1955164,intracranial aneurysm9 matched superficial temporal artery,intracranial aneurysm9 matched superficial temporal artery,,,,,STA,9,,GPL570,superficial temporal artery,,9
+GSE75436,GSM1955165,ECM_Remodeling,0.231970665247294,15,15,GSM1955165,intracranial aneurysm10,intracranial aneurysm10,,,,,IA,10,,GPL570,intracranial aneurysm,,10
+GSE75436,GSM1955166,ECM_Remodeling,-0.358753581534381,15,15,GSM1955166,intracranial aneurysm10 matched superficial temporal artery,intracranial aneurysm10 matched superficial temporal artery,,,,,STA,10,,GPL570,superficial temporal artery,,10
+GSE75436,GSM1955167,ECM_Remodeling,1.15051407017587,15,15,GSM1955167,intracranial aneurysm11,intracranial aneurysm11,,,,,IA,11,,GPL570,intracranial aneurysm,,11
+GSE75436,GSM1955168,ECM_Remodeling,-0.485183257863562,15,15,GSM1955168,intracranial aneurysm11 matched superficial temporal artery,intracranial aneurysm11 matched superficial temporal artery,,,,,STA,11,,GPL570,superficial temporal artery,,11
+GSE75436,GSM1955169,ECM_Remodeling,0.430348144240117,15,15,GSM1955169,intracranial aneurysm12,intracranial aneurysm12,,,,,IA,12,,GPL570,intracranial aneurysm,,12
+GSE75436,GSM1955170,ECM_Remodeling,-0.87922792985267,15,15,GSM1955170,intracranial aneurysm12 matched superficial temporal artery,intracranial aneurysm12 matched superficial temporal artery,,,,,STA,12,,GPL570,superficial temporal artery,,12
+GSE75436,GSM1955171,ECM_Remodeling,0.64087535851528,15,15,GSM1955171,intracranial aneurysm13,intracranial aneurysm13,,,,,IA,13,,GPL570,intracranial aneurysm,,13
+GSE75436,GSM1955172,ECM_Remodeling,-1.31145037733723,15,15,GSM1955172,intracranial aneurysm13 matched superficial temporal artery,intracranial aneurysm13 matched superficial temporal artery,,,,,STA,13,,GPL570,superficial temporal artery,,13
+GSE75436,GSM1955173,ECM_Remodeling,0.586433703736712,15,15,GSM1955173,intracranial aneurysm14,intracranial aneurysm14,,,,,IA,14,,GPL570,intracranial aneurysm,,14
+GSE75436,GSM1955174,ECM_Remodeling,-0.544072804518628,15,15,GSM1955174,intracranial aneurysm14 matched superficial temporal artery,intracranial aneurysm14 matched superficial temporal artery,,,,,STA,14,,GPL570,superficial temporal artery,,14
+GSE75436,GSM1955175,ECM_Remodeling,0.74369062467858,15,15,GSM1955175,intracranial aneurysm15,intracranial aneurysm15,,,,,IA,15,,GPL570,intracranial aneurysm,,15
+GSE75436,GSM1955176,ECM_Remodeling,-0.0187192485315053,15,15,GSM1955176,intracranial aneurysm15 matched superficial temporal artery,intracranial aneurysm15 matched superficial temporal artery,,,,,STA,15,,GPL570,superficial temporal artery,,15

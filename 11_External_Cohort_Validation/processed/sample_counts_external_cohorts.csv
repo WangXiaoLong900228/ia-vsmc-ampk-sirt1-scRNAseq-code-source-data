@@ -1,0 +1,11 @@
+dataset,group,n_samples
+GSE122897,Control,16
+GSE122897,Ruptured,21
+GSE122897,Unruptured,21
+GSE13353,Ruptured,11
+GSE13353,Unruptured,8
+GSE15629,Control,5
+GSE15629,Ruptured,8
+GSE15629,Unruptured,6
+GSE75436,IA,15
+GSE75436,STA,15
